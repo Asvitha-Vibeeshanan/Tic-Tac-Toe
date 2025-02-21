@@ -5,7 +5,7 @@
 * To place your marker you enter a number between 1 and 9, corresponding to the position on the grid.
 * You cannot place your marker in a position that is already occupied.
 *
-*  - Asvitha Vibeesjanan (Finished on : 1/30/25)
+*  - Asvitha Vibeeshanan (Finished on : 1/30/25)
 */
 
 using System.Numerics;
